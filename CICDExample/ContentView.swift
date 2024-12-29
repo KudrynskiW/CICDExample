@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, CICD!")
             Text("New feature-1")
+            Text("New change directly from GitHub")
         }
         .padding()
     }
